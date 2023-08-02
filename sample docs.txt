@@ -1,0 +1,31 @@
+POST /products/_bulk
+{ "index": { "_id": "1" } }
+{ "name": "MilkCo - Creamy Delight Milk", "price": 2.99, "category": "Milk" }
+{ "index": { "_id": "2" } }
+{ "name": "Dairy Fresh - Pure Organic Milk", "price": 3.49, "category": "Milk" }
+{ "index": { "_id": "3" } }
+{ "name": "Farmers' Best - Protein-Rich Milk", "price": 2.79, "category": "Milk" }
+{ "index": { "_id": "4" } }
+{ "name": "Nature's Dairy - Lactose-Free Cow Milk", "price": 3.99, "category": "Milk" }
+{ "index": { "_id": "5" } }
+{ "name": "Happy Cow - Vitamin Fortified Milk", "price": 3.29, "category": "Milk" }
+{ "index": { "_id": "6" } }
+{ "name": "Organic Farms - Premium Almond Milk", "price": 4.99, "category": "Milk" }
+{ "index": { "_id": "7" } }
+{ "name": "Nutty Delights - Cashew Milk", "price": 5.49, "category": "Milk" }
+{ "index": { "_id": "8" } }
+{ "name": "Silk Smooth - Soy Milk", "price": 3.79, "category": "Milk" }
+{ "index": { "_id": "9" } }
+{ "name": "Green Pastures - Grass-Fed Milk", "price": 6.99, "category": "Milk" }
+{ "index": { "_id": "10" } }
+{ "name": "ChocoDream - Chocolate Milk", "price": 2.99, "category": "Milk" }
+{ "index": { "_id": "11" } }
+{ "name": "Sweet Bliss - Vanilla Pudding", "price": 1.99, "category": "Desserts" }
+{ "index": { "_id": "12" } }
+{ "name": "Yummy Delights - Strawberry Pudding", "price": 2.49, "category": "Desserts" }
+{ "index": { "_id": "13" } }
+{ "name": "Delightful Treats - Banana Pudding", "price": 1.79, "category": "Desserts" }
+{ "index": { "_id": "14" } }
+{ "name": "Cocoa Heaven - Chocolate Pudding", "price": 2.99, "category": "Desserts" }
+{ "index": { "_id": "15" } }
+{ "name": "Tasty Toppings - Caramel Pudding", "price": 2.79, "category": "Desserts" }
